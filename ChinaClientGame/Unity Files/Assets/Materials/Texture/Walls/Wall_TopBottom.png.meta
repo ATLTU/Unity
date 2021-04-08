@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 679412dc10cff7541b26014212f2d45b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7280537126333130696
+    second: Wall_Variants_A_0
+  - first:
+      213: -4353458867146078132
+    second: Wall_Variants_A_1
+  - first:
+      213: 3858470906681509479
+    second: Wall_Variants_A_2
+  - first:
+      213: -9111756069777054157
+    second: Wall_Variants_A_3
+  - first:
+      213: 8041077119789053299
+    second: Wall_Variants_A_4
+  - first:
+      213: -3956744856990675072
+    second: Wall_Variants_A_5
+  - first:
+      213: -828686729132687528
+    second: Wall_Variants_A_6
+  - first:
+      213: 1987334733904536010
+    second: Wall_Variants_A_7
+  - first:
+      213: -8825784076557914081
+    second: Wall_Variants_A_8
+  - first:
+      213: 4417337550160536561
+    second: Wall_Variants_A_9
+  - first:
+      213: 3833510517065149688
+    second: Wall_Variants_A_10
+  - first:
+      213: -1428235342640684474
+    second: Wall_Variants_A_11
+  - first:
+      213: 6365909303697854258
+    second: Wall_Variants_A_12
+  - first:
+      213: 8277771869003272609
+    second: Wall_Variants_A_13
+  - first:
+      213: 4074376281937328272
+    second: Wall_Variants_A_14
+  - first:
+      213: -8477436588378463439
+    second: Wall_Variants_A_15
+  - first:
+      213: 8428758845053527106
+    second: Wall_Variants_A_16
+  - first:
+      213: 5274256715512986074
+    second: Wall_Variants_A_17
+  - first:
+      213: -8615342533084215236
+    second: Wall_Variants_A_18
+  - first:
+      213: 7399482786090065817
+    second: Wall_Variants_A_19
+  - first:
+      213: -1271576910771522133
+    second: Wall_Variants_A_20
+  - first:
+      213: -1372900770282066261
+    second: Wall_Variants_A_21
+  - first:
+      213: 7769954003171015906
+    second: Wall_Variants_A_22
+  - first:
+      213: -4811942911405903817
+    second: Wall_Variants_A_23
+  - first:
+      213: 5161249055075060002
+    second: Wall_Variants_A_24
+  - first:
+      213: -7696129616427831143
+    second: Wall_Variants_A_25
+  - first:
+      213: 5198476360669242388
+    second: Wall_Variants_A_26
+  - first:
+      213: -7193474572091433703
+    second: Wall_Variants_A_27
+  - first:
+      213: -4185543180207593386
+    second: Wall_Variants_A_28
+  - first:
+      213: 4230856206324993773
+    second: Wall_Variants_A_29
+  - first:
+      213: -7206447083850464971
+    second: Wall_Variants_A_30
+  - first:
+      213: -3869570045157910367
+    second: Wall_Variants_A_31
+  - first:
+      213: 4165692286506933097
+    second: Wall_Variants_A_32
+  - first:
+      213: -8651590665190400919
+    second: Wall_Variants_A_33
+  - first:
+      213: 2481971896413800977
+    second: Wall_Variants_A_34
+  - first:
+      213: -4218620083010008657
+    second: Wall_Variants_A_35
+  - first:
+      213: -1805781706011552823
+    second: Wall_Variants_A_36
+  - first:
+      213: -5799274182730756678
+    second: Wall_Variants_A_37
+  - first:
+      213: 61119862119628133
+    second: Wall_Variants_A_38
+  - first:
+      213: 474033677617997174
+    second: Wall_Variants_A_39
+  - first:
+      213: 1481039151375306254
+    second: Wall_Variants_A_40
+  - first:
+      213: 986486095858241797
+    second: Wall_Variants_A_41
+  - first:
+      213: -1829253992880068042
+    second: Wall_Variants_A_42
+  - first:
+      213: 5630840742528702863
+    second: Wall_Variants_A_43
+  - first:
+      213: -3859994657362569023
+    second: Wall_Variants_A_44
+  - first:
+      213: 8853151796422302057
+    second: Wall_Variants_A_45
+  - first:
+      213: 8638330690130553889
+    second: Wall_Variants_A_46
+  - first:
+      213: -2698711554197859728
+    second: Wall_Variants_A_47
+  - first:
+      213: -6407982871758446273
+    second: Wall_Variants_A_48
+  - first:
+      213: -3330162092724127137
+    second: Wall_Variants_A_49
+  - first:
+      213: -3784200944130744860
+    second: Wall_TopBottom_0
+  - first:
+      213: -2447230151329414457
+    second: Wall_TopBottom_1
+  - first:
+      213: -406141192194927673
+    second: Wall_TopBottom_2
+  - first:
+      213: -4095401631989443882
+    second: Wall_TopBottom_3
+  - first:
+      213: -3988916810803626665
+    second: Wall_TopBottom_4
+  - first:
+      213: 4454920637422257677
+    second: Wall_TopBottom_5
+  - first:
+      213: 2029463205920023080
+    second: Wall_TopBottom_6
+  - first:
+      213: 1790442021129856482
+    second: Wall_TopBottom_7
+  - first:
+      213: -3723550493465736403
+    second: Wall_TopBottom_8
+  - first:
+      213: -7450428172789826458
+    second: Wall_TopBottom_9
+  - first:
+      213: 7758647848254949561
+    second: Wall_TopBottom_10
+  - first:
+      213: -370202569908495562
+    second: Wall_TopBottom_11
+  - first:
+      213: -597479104977965845
+    second: Wall_TopBottom_12
+  - first:
+      213: 1006353545004585549
+    second: Wall_TopBottom_13
+  - first:
+      213: -4881567433291370441
+    second: Wall_TopBottom_14
+  - first:
+      213: 3912167738898679492
+    second: Wall_TopBottom_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall_TopBottom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed93667a41db7bc0800000000000000
+      internalID: -3784200944130744860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28262b421b90ed0800000000000000
+      internalID: -2447230151329414457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3519eccb81d5af0800000000000000
+      internalID: -406141192194927673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d6b00ae53a27c0800000000000000
+      internalID: -4095401631989443882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d37757b4584a8c0800000000000000
+      internalID: -3988916810803626665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d064c1077be03dd30800000000000000
+      internalID: 4454920637422257677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a691880a1a2c10800000000000000
+      internalID: 2029463205920023080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a064388de8d810800000000000000
+      internalID: 1790442021129856482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b8ebded8a435cc0800000000000000
+      internalID: -3723550493465736403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbc480d03ca9890800000000000000
+      internalID: -7450428172789826458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c5946c114cab60800000000000000
+      internalID: 7758647848254949561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bdaad59b6ccdaf0800000000000000
+      internalID: -370202569908495562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece11b6be355b7f0800000000000000
+      internalID: -597479104977965845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d421470a73947fd00800000000000000
+      internalID: 1006353545004585549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307d877840314cb0800000000000000
+      internalID: -4881567433291370441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_TopBottom_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68ccab4dfca4630800000000000000
+      internalID: 3912167738898679492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

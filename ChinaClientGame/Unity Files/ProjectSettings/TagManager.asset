@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PushAbleWords
+  - Pushable
+  - Enemy
+  - Door
+  - WinGame
+  - Crate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - StopMovement
+  - Box
+  - Action
+  - 
+  - Collider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2252370935
+    locked: 0
+  - name: Walls
+    uniqueID: 2737793435
+    locked: 0
+  - name: DecorativeNonsolid
+    uniqueID: 3851944459
+    locked: 0
+  - name: DecorativeSolid
+    uniqueID: 3215189941
+    locked: 0
+  - name: Gates
+    uniqueID: 1477071729
+    locked: 0
+  - name: Player
+    uniqueID: 1086363905
+    locked: 0
+  - name: Font
+    uniqueID: 887533065
+    locked: 0
+  - name: Collider
+    uniqueID: 4258837287
+    locked: 0
